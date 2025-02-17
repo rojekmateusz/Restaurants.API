@@ -1,0 +1,12 @@
+C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.Domain\bin\Debug\net8.0\Restaurants.Domain.deps.json
+C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.Domain\bin\Debug\net8.0\Restaurants.Domain.dll
+C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.Domain\bin\Debug\net8.0\Restaurants.Domain.pdb
+C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.Domain\obj\Debug\net8.0\Restaurants.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.Domain\obj\Debug\net8.0\Restaurants.Domain.AssemblyInfoInputs.cache
+C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.Domain\obj\Debug\net8.0\Restaurants.Domain.AssemblyInfo.cs
+C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.Domain\obj\Debug\net8.0\Restaurants.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.Domain\obj\Debug\net8.0\Restaurants.Domain.sourcelink.json
+C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.Domain\obj\Debug\net8.0\Restaurants.Domain.dll
+C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.Domain\obj\Debug\net8.0\refint\Restaurants.Domain.dll
+C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.Domain\obj\Debug\net8.0\Restaurants.Domain.pdb
+C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.Domain\obj\Debug\net8.0\ref\Restaurants.Domain.dll
