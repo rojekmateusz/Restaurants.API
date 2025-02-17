@@ -1040,6 +1040,7 @@
       },
       "Restaurants.Application/1.0.0": {
         "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "9.0.2",
           "Restaurants.Domain": "1.0.0"
         },
         "runtime": {
