@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rojek\\Documents\\Repos\\Restaurants.API\\Restaurants.API\\Restaurants.API.csproj",
-      "projectName": "Restaurants.API",
-      "projectPath": "C:\\Users\\rojek\\Documents\\Repos\\Restaurants.API\\Restaurants.API\\Restaurants.API.csproj",
+      "projectUniqueName": "C:\\Users\\rojek\\Documents\\Repos\\Restaurants.API\\Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj",
+      "projectName": "Restaurants.Infrastructure",
+      "projectPath": "C:\\Users\\rojek\\Documents\\Repos\\Restaurants.API\\Restaurants.Infrastructure\\Restaurants.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\rojek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rojek\\Documents\\Repos\\Restaurants.API\\Restaurants.API\\obj\\",
+      "outputPath": "C:\\Users\\rojek\\Documents\\Repos\\Restaurants.API\\Restaurants.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -109,9 +109,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
