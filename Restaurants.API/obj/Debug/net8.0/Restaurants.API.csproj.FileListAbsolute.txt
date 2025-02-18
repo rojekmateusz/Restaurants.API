@@ -178,3 +178,5 @@ C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.API\bin\Debug\net8.0\
 C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.API\obj\Debug\net8.0\Restaurants.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.API\bin\Debug\net8.0\MediatR.dll
+C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.API\bin\Debug\net8.0\MediatR.Contracts.dll

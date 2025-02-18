@@ -3,12 +3,12 @@ using FluentValidation;
 using Microsoft.AspNetCore.DataProtection.KeyManagement.Internal;
 using Restaurants.Application.Restaurants.Dtos;
 
-namespace Restaurants.Application.Restaurants.Validators;
+namespace Restaurants.Application.Restaurants.Commands.CreateRestaurant;
 
-public class CreateRestaurantDtoValidator : AbstractValidator<CreateRestaurantDto>
+public class CreateRestaurantCommandValidator : AbstractValidator<CreateRestaurantCommand>
 {
     private List<string> validCategory = ["Italian", "Mexican", "Japanese", "American", "Indian"];
-    public CreateRestaurantDtoValidator()
+    public CreateRestaurantCommandValidator()
     {
         RuleFor(dto => dto.Name)
             .Length(3, 100);
