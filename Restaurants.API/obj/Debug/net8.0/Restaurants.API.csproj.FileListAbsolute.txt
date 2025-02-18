@@ -172,3 +172,5 @@ C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.API\bin\Debug\net8.0\
 C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
