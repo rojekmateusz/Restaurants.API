@@ -11,13 +11,8 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Restaurants.API")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cea306bcb5833c11875e91bb923d495c410caae")]
-[assembly: System.Reflection.AssemblyProductAttribute("Restaurants.API")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Restaurants.API")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: Microsoft.AspNetCore.Mvc.ApplicationParts.ApplicationPartAttribute("FluentValidation.AspNetCore")]
+[assembly: Microsoft.AspNetCore.Mvc.ApplicationParts.ApplicationPartAttribute("Restaurants.Application")]
 
 // Wygenerowane przez klasę WriteCodeFragment programu MSBuild.
 
