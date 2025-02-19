@@ -193,3 +193,7 @@ C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.API\bin\Debug\net8.0\
 C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.API\bin\Debug\net8.0\Serilog.Sinks.Console.dll
 C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.API\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
 C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.API\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rojek\Documents\Repos\Restaurants.API\Restaurants.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
