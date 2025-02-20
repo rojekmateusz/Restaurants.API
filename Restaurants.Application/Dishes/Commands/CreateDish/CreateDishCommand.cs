@@ -1,8 +1,9 @@
-﻿using Restaurants.Domain.Entities;
+﻿
+using MediatR;
 
-namespace Restaurants.Application.Dishes.Dto;
+namespace Restaurants.Application.Dishes.Commands.CreateDish;
 
-public class DishDto
+public class CreateDishCommand: IRequest
 {
     public int Id { get; set; }
     public string Name { get; set; } = default!;
